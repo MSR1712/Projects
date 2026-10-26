@@ -12,6 +12,14 @@ This repo is organized as a shared workspace for documenting and storing project
 - experimental results
 - supporting documentation
 
+## Course Information
+
+The repository includes the following coursework entry:
+
+- Course Number: Not explicitly listed in the repository
+- Course Title: Communication Systems
+- Project Name: A design of PSK Transmitter & Receiver Pair for Low Noise
+
 ## Structure
 
 Use this repository to keep project materials organized by topic, course, or date. A typical structure might look like:
